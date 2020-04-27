@@ -1,2 +1,15 @@
-# DataScience
-DataScience Projects and Visualization
+- __DataScience\-GitHub__
+   - [LICENSE](LICENSE)
+   - [README.md](README.md)
+   - __datasets__
+     - __extracts__
+       - __novel\-corona\-virus\-2019\-dataset__
+     - __zips__
+       - [novel\-corona\-virus\-2019\-dataset.zip](datasets/zips/novel-corona-virus-2019-dataset.zip)
+   - __study materials__
+   - __users__
+     - __arnab__
+       - __novel\-corona\-virus\-2019\-dataset__
+     - __shivi__
+       - __novel\-corona\-virus\-2019\-dataset__
+
